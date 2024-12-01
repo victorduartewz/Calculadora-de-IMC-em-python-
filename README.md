@@ -1,4 +1,3 @@
-```markdown
 # 🧮 Calculadora de IMC
 
 Bem-vindo à **Calculadora de IMC**! Este projeto em Python é uma ferramenta interativa para calcular o **Índice de Massa Corporal (IMC)** de um usuário com base em informações como peso e altura. Ele também fornece uma análise da situação corpórea com base no valor do IMC.
@@ -25,10 +24,6 @@ A estrutura do repositório é organizada da seguinte forma:
   - Idade
   - Peso (kg)
   - Altura (m)
-- Calcula o IMC com a fórmula:
-  \[
-  IMC = \frac{\text{peso}}{\text{altura}^2}
-  \]
 - Classifica o IMC em categorias:
   - Insuficiência Ponderal
   - Normal

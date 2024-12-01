@@ -25,6 +25,7 @@ A estrutura do repositório é organizada da seguinte forma:
   - Peso (kg)
   - Altura (m)
 - Classifica o IMC em categorias:
+- Usa a fórmula padrão de cálculo do IMC
   - Insuficiência Ponderal
   - Normal
   - Sobrepeso
@@ -83,4 +84,3 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ##
 
 Contribuições são sempre bem-vindas!
-```
